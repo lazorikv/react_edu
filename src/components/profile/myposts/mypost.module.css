@@ -1,0 +1,14 @@
+.sendPost {
+    padding: 10px;
+}
+
+.myposttext {
+    padding-bottom: 5px;
+}
+
+.sendPost button {
+    border-radius: 15%;
+    background-color: blueviolet;
+    padding-left: 10px;
+}
+
